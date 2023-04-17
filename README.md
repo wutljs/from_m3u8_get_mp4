@@ -13,12 +13,18 @@ settings: In this module, users can add relevant content to IP pools and UA pool
 get_video: In this module, users can use different classes to achieve their goals, depending on their needs (whether the user downloads the video via URL or via a file).
 
 
+
+
 * add the required libraries in the user's virtual environment
 
 (Terminal) python detect_moudle.py (or detect the absolute path of moudle)
 
 
+
+
 * the method for users to download videos using this package:
+
+
 
 download via m3u8 url:
 

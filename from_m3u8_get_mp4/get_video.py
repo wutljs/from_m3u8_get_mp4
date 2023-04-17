@@ -5,8 +5,8 @@
 # @Function: Infringement must be investigated, please indicate the source of reproduction!
 """This module is used to download the video that the user wants"""
 
-from decrypt_video import DecryptAES
-import settings
+from from_m3u8_get_mp4.decrypt_video import DecryptAES
+from from_m3u8_get_mp4 import settings
 import os
 import shutil
 import re

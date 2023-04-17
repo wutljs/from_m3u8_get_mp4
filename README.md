@@ -1,4 +1,4 @@
-# from_m3u8_get_video
+# from_m3u8_get_mp4
 
 Here are some instructions for using the package named from_m3u8_get_mp4 :
 

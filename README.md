@@ -28,9 +28,9 @@ get_video: In this module, users can use different classes to achieve their goal
 
 download via m3u8 url:
 
-**from from_m3u8_get_mp4.get_video import GetVideoFromFile**
+**from from_m3u8_get_mp4.get_video import GetVideoFromUrl**
 
-**g = GetVideoFromFile(save_file_path=save_file_path, video_name=video_name, m3u8_url=m3u8_url)**
+**g = GetVideoFromUrl(save_file_path=save_file_path, video_name=video_name, m3u8_url=m3u8_url)**
 
 **g.start()**
 
